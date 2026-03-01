@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend series",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/pramodchouhan07/backend#readme",
+  "bugs": {
+    "url": "https://github.com/pramodchouhan07/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramodchouhan07/backend.git"
+  },
+  "license": "ISC",
+  "author": "pramod",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
